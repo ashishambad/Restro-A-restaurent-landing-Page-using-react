@@ -1,4 +1,4 @@
-import { opacity } from "lucide-react";
+import { Opacity } from "lucide-react";
 import React from "react";
 import { motion } from "motion/react";
 
